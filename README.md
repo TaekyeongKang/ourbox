@@ -1,4 +1,4 @@
-# 👨🏻‍💻 ourbox (파일 저장/공유 서비스)
+# :file_folder: ourbox (파일 저장/공유 서비스)
 
 ### 1. introduce
 
@@ -98,9 +98,9 @@
 ## :star: Main Function
 
 ### 1. 프로세스 흐름도
-<img src="readme/process1.png"  width="100%"/>  
-<img src="readme/process2.png"  width="100%"/>  
-<img src="readme/process3.png"  width="100%"/>
+<img src="readme/process2.png"  width="100%"/> 
+<img src="readme/process1.png"  width="100%"/>
+<img src="readme/process3.png"  width="100%"/> 
 
 ### 2. 그룹생성 -> 파일드라이브 / 게시판 / 채팅
 <img src="readme/view.png"  width="100%"/>
