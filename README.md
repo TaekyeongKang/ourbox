@@ -121,6 +121,6 @@
 - 홍정기 : https://github.com/JEOLKI  
 - 강태경 : https://github.com/TaekyeongKang  
 - 이명호 : https://github.com/seaweedy  
-- 이동주 :  
+- 이동주 : https://github.com/ddongjju
 - 최윤지 : https://github.com/OZYEYO
 
