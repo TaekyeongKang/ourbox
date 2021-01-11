@@ -28,10 +28,11 @@
   
 ### 4. API
   - java email, CAPTCHA
+  
 <br/>
 
 ## :books: Modeling
-<img src="readme/modeling.png"  width="100%"/>
+<img src="readme/ourbox_ERD.jpg"  width="100%"/>
 
 <br/>
 
@@ -97,13 +98,12 @@
 ## :star: Main Function
 
 ### 1. 프로세스 흐름도
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5d586c8d-b81c-47d6-91c7-8207230799e7/_.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5d586c8d-b81c-47d6-91c7-8207230799e7/_.png)
+<img src="readme/process1.png"  width="100%"/>  
+<img src="readme/process2.png"  width="100%"/>  
+<img src="readme/process3.png"  width="100%"/>
 
-### 2. 면접 진행
+### 2. 그룹생성 -> 파일드라이브 / 게시판 / 채팅
 <img src="readme/view.png"  width="100%"/>
-
-### 3. 발음 테스트
-<img src="readme/test.png"  width="100%"/>
 
 <br/>
 
